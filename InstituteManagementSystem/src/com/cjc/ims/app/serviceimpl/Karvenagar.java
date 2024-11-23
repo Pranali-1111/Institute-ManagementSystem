@@ -22,7 +22,6 @@ List<Course>cList=new ArrayList<>();
 		System.out.println("Enter Course Name");
 		c.setCname(sc.next());
 		cList.add(c);
-	
 	}
 	public void viewCourse()
 	{
